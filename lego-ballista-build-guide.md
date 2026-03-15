@@ -99,6 +99,32 @@ Scale: ~30 x 16 studs base footprint, ~14 studs tall at the torsion mounts. Capa
 
 ---
 
+## Where to Buy Parts on Amazon
+
+You likely won't find a single set with every piece. The best approach is to combine a Technic bulk parts set (for beams, pins, axles, bushings) with a standard brick lot and rubber bands. Here are recommended sets:
+
+### Technic Parts (Beams, Axles, Pins, Connectors)
+
+- [Pasacho 582pcs Technical Parts — Beams, Axles, Connectors, Liftarms, Pins](https://www.amazon.com/Technical-Connectors-Compatible-Lego-Technic-Accessories/dp/B0C9ZPB1RT) — Large assortment of Technic-compatible beams, axles, pins, and connectors. Covers most structural parts for the base, torsion frames, and arms.
+- [Habow 852pcs Technic Parts — Gears, Axles, Pins, Connectors, Bushings](https://www.amazon.com/Habow-Technic-Parts-Gears-Axle-Pin-Connector-Lego-Technic-Shock-Absorber/dp/B0BYP3XB4R) — Massive set with axles, pins, bushings, and connectors. Great for filling in gaps.
+- [BroTex 580pcs Technical Parts — Liftarm Beams, Axles, Pins, Panels, Connectors](https://www.amazon.com/Technical-Connectors-Compatible-Technic-Block-Buildings/dp/B0BB6BQW9M) — Another solid bulk Technic set focused on beams and liftarms.
+- [LEGO Technic Beams Assortment Pack (Genuine LEGO)](https://www.amazon.com/LEGO-Technic-Beams-Assortment-Pack/dp/B00G1MCNAQ) — Official LEGO Technic beams if you want genuine parts.
+- [Genuine LEGO Technic Beams, Liftarms, and Pins (Mindstorms/EV3)](https://www.amazon.com/Piece-LEGO-TECHNIC-Supplemental-Parts/dp/B077F9WP37) — Authentic LEGO Technic supplemental parts pack.
+
+### Standard Bricks & Plates (Channel Walls, Base Ballast)
+
+- [100 Piece Bulk 2x4 Building Bricks (LEGO Compatible)](https://www.amazon.com/Piece-Bricks-Building-Compatible-Pieces/dp/B0D54G6PDC) — Bulk 2x4 bricks for base ballast and structural fill.
+- [Classic Building Bricks 2x4, 110 Piece (Dark Gray)](https://www.amazon.com/Classic-Building-Compatible-Creative-Enthusiast/dp/B0CZTYZ6JN) — Another 2x4 brick bulk option.
+- [Classic 50pc Building Plate Assortment Pack (7 sizes)](https://www.amazon.com/Classic-Building-Assortment-plates-Compatible/dp/B0D53YRZTM) — Assorted plates in multiple sizes (2x4, 2x6, 2x8, etc.) for the channel floor and base feet.
+
+### Rubber Bands & String
+
+- [Size 64 Rubber Bands, 1/4 Pound Bag](https://www.amazon.com/Rubber-Colored-Elastic-Colorful-Folders/dp/B09413Z321) — Size 64 rubber bands, the primary torsion power source. One bag provides more than enough for both sides.
+- [1InTheOffice Thick Rubber Bands #64, 380 Pack](https://www.amazon.com/1InTheOffice-Rubber-Bands-Thick-380Pack/dp/B09KMDBS4S) — Alternative bulk pack of thick size 64 bands.
+- [TECEUM Micro Paracord — 1.18mm Braided Cord, 125ft](https://www.amazon.com/strong-string/s?k=strong%20string) — Thin, strong braided cord for the drawstring and trigger release loop.
+
+---
+
 ## Build Instructions
 
 ### Step 1: Build the Double-Wide Base Frame

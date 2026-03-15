@@ -31,6 +31,40 @@ A torsion-powered onager-style catapult with a single throwing arm, padded cross
 
 ---
 
+## Where to Buy Parts on Amazon
+
+None of these builds require a specific LEGO set — they use common Technic and standard brick parts. The easiest way to source everything is to combine a bulk Technic parts set with a standard brick lot and some rubber bands.
+
+### Technic Parts (Beams, Axles, Pins, Connectors, Bushings)
+
+| Set | Pieces | Link |
+|---|---|---|
+| Pasacho Technical Parts | 582 pcs | [Amazon](https://www.amazon.com/Technical-Connectors-Compatible-Lego-Technic-Accessories/dp/B0C9ZPB1RT) |
+| Habow Technic Parts (Gears, Axles, Pins, Bushings) | 852 pcs | [Amazon](https://www.amazon.com/Habow-Technic-Parts-Gears-Axle-Pin-Connector-Lego-Technic-Shock-Absorber/dp/B0BYP3XB4R) |
+| BroTex Technical Parts (Liftarms, Beams, Panels) | 580 pcs | [Amazon](https://www.amazon.com/Technical-Connectors-Compatible-Technic-Block-Buildings/dp/B0BB6BQW9M) |
+| LEGO Technic Beams Assortment (Genuine LEGO) | Assorted | [Amazon](https://www.amazon.com/LEGO-Technic-Beams-Assortment-Pack/dp/B00G1MCNAQ) |
+| Genuine LEGO Technic Supplemental Parts | Assorted | [Amazon](https://www.amazon.com/Piece-LEGO-TECHNIC-Supplemental-Parts/dp/B077F9WP37) |
+
+### Standard Bricks & Plates (Counterweight, Ballast, Bucket Walls)
+
+| Set | Pieces | Link |
+|---|---|---|
+| Bulk 2x4 Building Bricks | 100 pcs | [Amazon](https://www.amazon.com/Piece-Bricks-Building-Compatible-Pieces/dp/B0D54G6PDC) |
+| Classic 2x4 Bricks (Dark Gray) | 110 pcs | [Amazon](https://www.amazon.com/Classic-Building-Compatible-Creative-Enthusiast/dp/B0CZTYZ6JN) |
+| Building Plate Assortment (7 sizes) | 50 pcs | [Amazon](https://www.amazon.com/Classic-Building-Assortment-plates-Compatible/dp/B0D53YRZTM) |
+
+### Rubber Bands & String
+
+| Item | Link |
+|---|---|
+| Size 64 Rubber Bands (1/4 lb bag) | [Amazon](https://www.amazon.com/Rubber-Colored-Elastic-Colorful-Folders/dp/B09413Z321) |
+| Thick Rubber Bands #64 (380 pack) | [Amazon](https://www.amazon.com/1InTheOffice-Rubber-Bands-Thick-380Pack/dp/B09KMDBS4S) |
+| Micro Paracord / Braided Cord (125ft) | [Amazon](https://www.amazon.com/strong-string/s?k=strong%20string) |
+
+> Tip: One bulk Technic set (500+ pcs) plus one bag of 2x4 bricks and a pack of rubber bands is enough to build any single weapon. To build all three, grab two Technic sets and two brick packs.
+
+---
+
 ## Safety
 
 These builds launch projectiles with real force. Always:
