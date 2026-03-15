@@ -105,23 +105,39 @@ You likely won't find a single set with every piece. The best approach is to com
 
 ### Technic Parts (Beams, Axles, Pins, Connectors)
 
-- [Pasacho 582pcs Technical Parts — Beams, Axles, Connectors, Liftarms, Pins](https://www.amazon.com/Technical-Connectors-Compatible-Lego-Technic-Accessories/dp/B0C9ZPB1RT) — Large assortment of Technic-compatible beams, axles, pins, and connectors. Covers most structural parts for the base, torsion frames, and arms.
-- [Habow 852pcs Technic Parts — Gears, Axles, Pins, Connectors, Bushings](https://www.amazon.com/Habow-Technic-Parts-Gears-Axle-Pin-Connector-Lego-Technic-Shock-Absorber/dp/B0BYP3XB4R) — Massive set with axles, pins, bushings, and connectors. Great for filling in gaps.
-- [BroTex 580pcs Technical Parts — Liftarm Beams, Axles, Pins, Panels, Connectors](https://www.amazon.com/Technical-Connectors-Compatible-Technic-Block-Buildings/dp/B0BB6BQW9M) — Another solid bulk Technic set focused on beams and liftarms.
-- [LEGO Technic Beams Assortment Pack (Genuine LEGO)](https://www.amazon.com/LEGO-Technic-Beams-Assortment-Pack/dp/B00G1MCNAQ) — Official LEGO Technic beams if you want genuine parts.
-- [Genuine LEGO Technic Beams, Liftarms, and Pins (Mindstorms/EV3)](https://www.amazon.com/Piece-LEGO-TECHNIC-Supplemental-Parts/dp/B077F9WP37) — Authentic LEGO Technic supplemental parts pack.
+| Set | Price | Link |
+|---|---|---|
+| Pasacho 582pcs — Beams, Axles, Connectors, Liftarms, Pins | ~$29.99 | [Amazon](https://www.amazon.com/Technical-Connectors-Compatible-Lego-Technic-Accessories/dp/B0C9ZPB1RT) |
+| Habow 852pcs — Gears, Axles, Pins, Connectors, Bushings | ~$35.99 | [Amazon](https://www.amazon.com/Habow-Technic-Parts-Gears-Axle-Pin-Connector-Lego-Technic-Shock-Absorber/dp/B0BYP3XB4R) |
+| BroTex 580pcs — Liftarm Beams, Axles, Pins, Panels, Connectors | ~$29.99 | [Amazon](https://www.amazon.com/Technical-Connectors-Compatible-Technic-Block-Buildings/dp/B0BB6BQW9M) |
+| LEGO Technic Beams Assortment Pack (Genuine LEGO) | ~$59.95 | [Amazon](https://www.amazon.com/LEGO-Technic-Beams-Assortment-Pack/dp/B00G1MCNAQ) |
+| Genuine LEGO Technic Beams, Liftarms, Pins (Mindstorms/EV3) | ~$27.90 | [Amazon](https://www.amazon.com/Piece-LEGO-TECHNIC-Supplemental-Parts/dp/B077F9WP37) |
 
 ### Standard Bricks & Plates (Channel Walls, Base Ballast)
 
-- [100 Piece Bulk 2x4 Building Bricks (LEGO Compatible)](https://www.amazon.com/Piece-Bricks-Building-Compatible-Pieces/dp/B0D54G6PDC) — Bulk 2x4 bricks for base ballast and structural fill.
-- [Classic Building Bricks 2x4, 110 Piece (Dark Gray)](https://www.amazon.com/Classic-Building-Compatible-Creative-Enthusiast/dp/B0CZTYZ6JN) — Another 2x4 brick bulk option.
-- [Classic 50pc Building Plate Assortment Pack (7 sizes)](https://www.amazon.com/Classic-Building-Assortment-plates-Compatible/dp/B0D53YRZTM) — Assorted plates in multiple sizes (2x4, 2x6, 2x8, etc.) for the channel floor and base feet.
+| Set | Price | Link |
+|---|---|---|
+| 100pc Bulk 2x4 Building Bricks (LEGO Compatible) | ~$9.99 | [Amazon](https://www.amazon.com/Piece-Bricks-Building-Compatible-Pieces/dp/B0D54G6PDC) |
+| Classic 2x4 Bricks, 110pc (Dark Gray) | ~$12.99 | [Amazon](https://www.amazon.com/Classic-Building-Compatible-Creative-Enthusiast/dp/B0CZTYZ6JN) |
+| 50pc Building Plate Assortment (7 sizes) | ~$10.99 | [Amazon](https://www.amazon.com/Classic-Building-Assortment-plates-Compatible/dp/B0D53YRZTM) |
 
 ### Rubber Bands & String
 
-- [Size 64 Rubber Bands, 1/4 Pound Bag](https://www.amazon.com/Rubber-Colored-Elastic-Colorful-Folders/dp/B09413Z321) — Size 64 rubber bands, the primary torsion power source. One bag provides more than enough for both sides.
-- [1InTheOffice Thick Rubber Bands #64, 380 Pack](https://www.amazon.com/1InTheOffice-Rubber-Bands-Thick-380Pack/dp/B09KMDBS4S) — Alternative bulk pack of thick size 64 bands.
-- [TECEUM Micro Paracord — 1.18mm Braided Cord, 125ft](https://www.amazon.com/strong-string/s?k=strong%20string) — Thin, strong braided cord for the drawstring and trigger release loop.
+| Item | Price | Link |
+|---|---|---|
+| Size 64 Rubber Bands, Colored, 1/4 lb Bag | ~$9.99 | [Amazon](https://www.amazon.com/Rubber-Colored-Elastic-Colorful-Folders/dp/B09413Z321) |
+| 1InTheOffice Thick Rubber Bands #64, 380 Pack | ~$12.99 | [Amazon](https://www.amazon.com/1InTheOffice-Rubber-Bands-Thick-380Pack/dp/B09KMDBS4S) |
+| TECEUM Micro Paracord 1.18mm Braided Cord, 125ft | ~$7.99 | [Amazon](https://www.amazon.com/strong-string/s?k=strong%20string) |
+
+### Estimated Total Cost
+
+| Shopping List | What You Get | Est. Total |
+|---|---|---|
+| Budget build (compatible parts) | 1x Pasacho 582pcs + 1x 100pc 2x4 bricks + 1x rubber bands + cord | ~$58 |
+| Full build (compatible parts, extra stock) | 1x Pasacho 582pcs + 1x Habow 852pcs + 1x 100pc 2x4 bricks + 1x plate assortment + rubber bands + cord | ~$105 |
+| Genuine LEGO build | 1x LEGO Beams Assortment + 1x LEGO Supplemental Parts + 1x 100pc 2x4 bricks + rubber bands + cord | ~$116 |
+
+> Prices are approximate and may vary. Checked March 2026.
 
 ---
 

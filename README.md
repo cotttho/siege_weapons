@@ -37,29 +37,40 @@ None of these builds require a specific LEGO set — they use common Technic and
 
 ### Technic Parts (Beams, Axles, Pins, Connectors, Bushings)
 
-| Set | Pieces | Link |
-|---|---|---|
-| Pasacho Technical Parts | 582 pcs | [Amazon](https://www.amazon.com/Technical-Connectors-Compatible-Lego-Technic-Accessories/dp/B0C9ZPB1RT) |
-| Habow Technic Parts (Gears, Axles, Pins, Bushings) | 852 pcs | [Amazon](https://www.amazon.com/Habow-Technic-Parts-Gears-Axle-Pin-Connector-Lego-Technic-Shock-Absorber/dp/B0BYP3XB4R) |
-| BroTex Technical Parts (Liftarms, Beams, Panels) | 580 pcs | [Amazon](https://www.amazon.com/Technical-Connectors-Compatible-Technic-Block-Buildings/dp/B0BB6BQW9M) |
-| LEGO Technic Beams Assortment (Genuine LEGO) | Assorted | [Amazon](https://www.amazon.com/LEGO-Technic-Beams-Assortment-Pack/dp/B00G1MCNAQ) |
-| Genuine LEGO Technic Supplemental Parts | Assorted | [Amazon](https://www.amazon.com/Piece-LEGO-TECHNIC-Supplemental-Parts/dp/B077F9WP37) |
+| Set | Pieces | Price | Link |
+|---|---|---|---|
+| Pasacho Technical Parts | 582 pcs | ~$29.99 | [Amazon](https://www.amazon.com/Technical-Connectors-Compatible-Lego-Technic-Accessories/dp/B0C9ZPB1RT) |
+| Habow Technic Parts (Gears, Axles, Pins, Bushings) | 852 pcs | ~$35.99 | [Amazon](https://www.amazon.com/Habow-Technic-Parts-Gears-Axle-Pin-Connector-Lego-Technic-Shock-Absorber/dp/B0BYP3XB4R) |
+| BroTex Technical Parts (Liftarms, Beams, Panels) | 580 pcs | ~$29.99 | [Amazon](https://www.amazon.com/Technical-Connectors-Compatible-Technic-Block-Buildings/dp/B0BB6BQW9M) |
+| LEGO Technic Beams Assortment (Genuine LEGO) | Assorted | ~$59.95 | [Amazon](https://www.amazon.com/LEGO-Technic-Beams-Assortment-Pack/dp/B00G1MCNAQ) |
+| Genuine LEGO Technic Supplemental Parts | Assorted | ~$27.90 | [Amazon](https://www.amazon.com/Piece-LEGO-TECHNIC-Supplemental-Parts/dp/B077F9WP37) |
 
 ### Standard Bricks & Plates (Counterweight, Ballast, Bucket Walls)
 
-| Set | Pieces | Link |
-|---|---|---|
-| Bulk 2x4 Building Bricks | 100 pcs | [Amazon](https://www.amazon.com/Piece-Bricks-Building-Compatible-Pieces/dp/B0D54G6PDC) |
-| Classic 2x4 Bricks (Dark Gray) | 110 pcs | [Amazon](https://www.amazon.com/Classic-Building-Compatible-Creative-Enthusiast/dp/B0CZTYZ6JN) |
-| Building Plate Assortment (7 sizes) | 50 pcs | [Amazon](https://www.amazon.com/Classic-Building-Assortment-plates-Compatible/dp/B0D53YRZTM) |
+| Set | Pieces | Price | Link |
+|---|---|---|---|
+| Bulk 2x4 Building Bricks | 100 pcs | ~$9.99 | [Amazon](https://www.amazon.com/Piece-Bricks-Building-Compatible-Pieces/dp/B0D54G6PDC) |
+| Classic 2x4 Bricks (Dark Gray) | 110 pcs | ~$12.99 | [Amazon](https://www.amazon.com/Classic-Building-Compatible-Creative-Enthusiast/dp/B0CZTYZ6JN) |
+| Building Plate Assortment (7 sizes) | 50 pcs | ~$10.99 | [Amazon](https://www.amazon.com/Classic-Building-Assortment-plates-Compatible/dp/B0D53YRZTM) |
 
 ### Rubber Bands & String
 
-| Item | Link |
-|---|---|
-| Size 64 Rubber Bands (1/4 lb bag) | [Amazon](https://www.amazon.com/Rubber-Colored-Elastic-Colorful-Folders/dp/B09413Z321) |
-| Thick Rubber Bands #64 (380 pack) | [Amazon](https://www.amazon.com/1InTheOffice-Rubber-Bands-Thick-380Pack/dp/B09KMDBS4S) |
-| Micro Paracord / Braided Cord (125ft) | [Amazon](https://www.amazon.com/strong-string/s?k=strong%20string) |
+| Item | Price | Link |
+|---|---|---|
+| Size 64 Rubber Bands (1/4 lb bag) | ~$9.99 | [Amazon](https://www.amazon.com/Rubber-Colored-Elastic-Colorful-Folders/dp/B09413Z321) |
+| Thick Rubber Bands #64 (380 pack) | ~$12.99 | [Amazon](https://www.amazon.com/1InTheOffice-Rubber-Bands-Thick-380Pack/dp/B09KMDBS4S) |
+| Micro Paracord / Braided Cord (125ft) | ~$7.99 | [Amazon](https://www.amazon.com/strong-string/s?k=strong%20string) |
+
+### Estimated Total Cost
+
+| Goal | Recommended Shopping List | Est. Total |
+|---|---|---|
+| Build any 1 weapon (budget) | 1x Pasacho 582pcs + 1x 100pc 2x4 bricks + rubber bands + cord | ~$58 |
+| Build any 1 weapon (extra parts) | 1x Pasacho 582pcs + 1x Habow 852pcs + 1x 100pc 2x4 bricks + plate assortment + rubber bands + cord | ~$105 |
+| Build all 3 weapons | 2x Pasacho 582pcs + 1x Habow 852pcs + 2x 100pc 2x4 bricks + 1x plate assortment + 2x rubber bands + cord | ~$155 |
+| Genuine LEGO (1 weapon) | 1x LEGO Beams Assortment + 1x LEGO Supplemental Parts + 1x 100pc 2x4 bricks + rubber bands + cord | ~$116 |
+
+> Prices are approximate and may vary. Checked March 2026.
 
 > Tip: One bulk Technic set (500+ pcs) plus one bag of 2x4 bricks and a pack of rubber bands is enough to build any single weapon. To build all three, grab two Technic sets and two brick packs.
 
