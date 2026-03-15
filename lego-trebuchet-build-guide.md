@@ -1,6 +1,8 @@
-# LEGO Trebuchet Build Guide — "The Brick Launcher"
+# LEGO Trebuchet Build Guide — "The Siege Breaker"
 
-A powerful, functional trebuchet built entirely from LEGO Technic and standard bricks. This design prioritizes launch distance through a high mechanical advantage arm ratio, a hinged counterweight, and an optional sling.
+A large-scale, high-power trebuchet built from LEGO Technic and standard bricks. This design uses a double-wide reinforced base, tall buttressed towers, a long composite throwing arm with a 1:4 pivot ratio, a massive hinged counterweight, and a tuned sling for maximum launch distance.
+
+Scale: ~32 x 20 studs base footprint, ~18 studs tall at the towers. Capable of launching small LEGO bricks across a large room.
 
 ---
 
@@ -10,198 +12,281 @@ A powerful, functional trebuchet built entirely from LEGO Technic and standard b
 
 | Part | Color (suggested) | Quantity |
 |---|---|---|
-| 16-stud Technic beam | Black | 2 |
-| 15-stud Technic beam (throwing arm) | Red | 1 |
-| 9-stud Technic beam | Gray | 4 |
-| 7-stud Technic beam | Gray | 2 |
-| 5-stud Technic beam | Gray | 6 |
-| 3-stud Technic beam | Black | 4 |
+| 15-stud Technic beam | Black | 8 |
+| 13-stud Technic beam | Black | 4 |
+| 11-stud Technic beam | Red | 2 |
+| 9-stud Technic beam | Gray | 8 |
+| 7-stud Technic beam | Gray | 8 |
+| 5-stud Technic beam | Gray | 12 |
+| 3-stud Technic beam | Black | 8 |
+
+### Composite Throwing Arm
+
+| Part | Quantity |
+|---|---|
+| 15-stud Technic beam (arm spine) | 2 |
+| 7-stud Technic beam (arm reinforcement plates) | 4 |
+| Technic friction pin (to laminate beams) | 10 |
+
+> The throwing arm is made by joining two 15-stud beams side-by-side with pins, creating a rigid 15-stud double-wide arm. The 7-stud beams reinforce the counterweight end where stress is highest.
 
 ### Technic Connectors & Axles
 
 | Part | Quantity |
 |---|---|
-| Technic axle, 6-stud long | 1 |
-| Technic axle, 4-stud long | 2 |
-| Technic axle, 2-stud long | 4 |
-| Technic friction pin (black) | 16 |
-| Technic pin without friction (gray/tan) | 6 |
-| Technic bush (half) | 4 |
-| Technic bush (full) | 2 |
-| Technic axle-pin combo | 4 |
-| Technic perpendicular connector (90°) | 4 |
+| Technic axle, 10-stud long | 1 |
+| Technic axle, 8-stud long | 2 |
+| Technic axle, 6-stud long | 2 |
+| Technic axle, 4-stud long | 6 |
+| Technic axle, 2-stud long | 8 |
+| Technic friction pin (black) | 40 |
+| Technic pin without friction (gray/tan) | 12 |
+| Technic bush (half) | 8 |
+| Technic bush (full) | 6 |
+| Technic axle-pin combo | 8 |
+| Technic perpendicular connector (90°) | 8 |
+| Technic H-frame / liftarm connector | 4 |
 
 ### Standard Bricks & Plates
 
 | Part | Quantity |
 |---|---|
-| 2x6 plate | 4 |
-| 2x4 brick | 12–16 (counterweight) |
-| 2x4 plate | 4 |
-| 4x4 plate | 1 |
-| 1x2 plate with rail | 2 |
-| 2x2 round brick | 2 (ammo) |
+| 2x10 plate | 4 |
+| 2x8 plate | 4 |
+| 2x6 plate | 8 |
+| 2x4 brick | 40–50 (counterweight) |
+| 2x4 plate | 8 |
+| 4x6 plate | 2 |
+| 6x6 plate | 1 (counterweight platform) |
+| 1x2 plate with rail | 4 |
+| 2x2 round brick | 4 (ammo) |
+| 1x1 round plate | 4 (ammo, light) |
 
 ### Miscellaneous
 
 | Part | Quantity |
 |---|---|
-| String / thin cord (~12 cm) | 1 |
-| Small fabric or paper pouch (~3x3 cm) | 1 (for sling, optional) |
-| Rubber band (small) | 1 (optional trigger assist) |
+| String / thin cord (~20 cm) | 1 |
+| Fabric or leather pouch (~5x5 cm) | 1 (sling — strongly recommended at this scale) |
+| Rubber band (medium) | 2 (trigger assist) |
 
 ---
 
 ## Design Overview
 
 ```
-                         ●  <- projectile
-                        /
-        Pivot →  ▲----==============/ (long arm, 11 studs)
-                / \   ||
-               /   \  || short arm (4 studs)
-              /     \ ||
-             /  A-   \▼
-            / frame   [COUNTERWEIGHT]
-           /  tower  \
-    =======/==========\=======
-    |         BASE            |
-    ===========================
-    ^^feet^^          ^^feet^^
+                              ●  <- projectile in sling
+                             /
+                            / sling (~8 cm cord + pouch)
+                           /
+       Pivot →  ▲▲----================================/ (long arm, 12 studs)
+               /  \\   ||||
+              /    \\  |||| short arm (3 studs)
+             /      \\ ||||
+            /  Twin   \\▼▼
+           /  A-frame  [====COUNTERWEIGHT====]
+          /  towers     (40-50 bricks, hinged)
+         /     18       \
+        /    studs       \
+       /     tall         \
+  =====/===================\=====
+  |    DOUBLE-WIDE BASE          |
+  |    (two 15-stud rails x2)   |
+  ================================
+  ^^wide feet^^        ^^wide feet^^
 ```
 
-- Arm ratio: ~1:3 (4 studs short side, 11 studs long side)
-- Hinged counterweight swings freely for maximum energy transfer
-- Wide base prevents tipping during launch
+- Arm ratio: ~1:4 (3 studs short side, 12 studs long side)
+- Double-beam composite arm resists flex under heavy counterweight
+- Twin A-frame towers with diagonal buttresses for rigidity
+- Hinged counterweight on a free-swinging cradle
+- Sling adds effective arm length and whip effect
+- Double-wide base with extended feet prevents tipping
 
 ---
 
 ## Build Instructions
 
-### Step 1: Build the Base Frame
+### Step 1: Build the Double-Wide Base Frame
 
-The base needs to be wide and heavy to absorb the launch energy without tipping.
+This base is twice the width and significantly heavier than a standard build, providing the stability needed for a large counterweight.
 
-1. Lay the two **16-stud Technic beams** parallel to each other, spaced **6 studs apart** (measure hole-to-hole).
-2. Connect them at three points using **5-stud Technic beams** as cross-braces:
-   - One at the front (stud 1–2)
-   - One at the center (stud 8–9)
-   - One at the rear (stud 15–16)
-3. Use **Technic friction pins** to secure each cross-brace into the holes of the parallel beams.
-4. Flip the base over. Attach four **2x6 plates** underneath, extending outward past the edges of the beams on both sides. These act as stabilizer feet and widen the footprint.
-5. Flip back upright. The base should sit flat and feel solid.
+1. Take four **15-stud Technic beams**. Lay them in two parallel pairs:
+   - Pair A: two beams side by side (touching), forming the left rail
+   - Pair B: two beams side by side, forming the right rail
+2. Space the two pairs **10 studs apart** (hole center to hole center, measuring from the inner beam of each pair).
+3. Connect the pairs with **5-stud Technic beams** as cross-braces at five points:
+   - Stud 1 (front)
+   - Stud 5
+   - Stud 8 (center)
+   - Stud 11
+   - Stud 15 (rear)
+4. Use **Technic friction pins** for all cross-brace connections. Pin through both beams of each pair for maximum rigidity.
+5. Add a second layer of cross-bracing: attach **7-stud Technic beams** diagonally between the cross-braces at studs 5 and 11, forming an X-pattern underneath the base. This prevents racking (twisting).
+6. Flip the base over. Attach the following as stabilizer feet, extending outward past the rails on all four sides:
+   - Four **2x10 plates** along the front and rear edges
+   - Four **2x8 plates** along the left and right sides
+7. Flip back upright. The base should be rock-solid and sit perfectly flat.
 
-**Result:** A rigid rectangular frame, roughly 16 x 10 studs, with wide feet.
+**Result:** A massive rectangular frame, ~32 x 20 studs with wide feet on all sides. This base can handle a counterweight of 40+ bricks without tipping.
 
 ---
 
-### Step 2: Build the A-Frame Pivot Towers
+### Step 2: Build the Twin A-Frame Pivot Towers
 
-You will build two identical A-frame towers that hold the throwing arm's pivot axle.
+These towers are taller and reinforced with diagonal buttresses to handle the stress of a heavy counterweight swinging through.
 
-#### For each tower (build two):
+#### For each tower (build two, mirror image):
 
-1. Take two **9-stud Technic beams**.
-2. Connect them at the top using a **Technic pin without friction** through the last hole of each beam, forming an inverted V shape. Leave the pin slightly loose so you can adjust the angle.
-3. Spread the bottom ends apart so they are **6 studs apart** (matching the base width).
-4. At approximately the 5th hole from the bottom on each leg, connect a **5-stud Technic beam** horizontally between the two legs as a cross-brace. Secure with **friction pins**. This triangulates the tower and prevents wobble.
-5. At the very top where the two beams meet, ensure there is one open hole on each beam — this is where the main pivot axle will pass through.
+1. Take two **13-stud Technic beams** — these are the tower legs.
+2. Connect them at the top using a **Technic pin without friction** through the last hole, forming an inverted V.
+3. Spread the bottom ends **10 studs apart** (matching the base width).
+4. Add two horizontal cross-braces between the legs:
+   - **5-stud beam** at hole 4 from the bottom
+   - **5-stud beam** at hole 9 from the bottom
+5. Secure all connections with **friction pins**.
+
+#### Add diagonal buttresses:
+
+6. For each tower, attach two **9-stud Technic beams** as rear buttresses:
+   - One from hole 10 of the left leg, angling back and down to the base rail at stud 12
+   - One from hole 10 of the right leg, angling back and down to the base rail at stud 12
+7. These buttresses prevent the towers from folding forward when the counterweight drops.
 
 #### Mount the towers to the base:
 
-1. Position the first tower on the base at **stud position 8** (center of the base), with the legs straddling the two parallel base beams.
-2. Pin the bottom of each tower leg into the base beams using **Technic friction pins** or **axle-pin combos**.
-3. Position the second tower identically, directly across from the first on the opposite base beam at the same stud position.
-4. The two tower tops should be aligned and facing each other, approximately **6 studs apart**, with their top holes lined up.
+8. Position the first tower at **stud position 8** (center of the base), with legs straddling the left base rail pair.
+9. Pin the bottom two holes of each tower leg into the double base beams using **Technic friction pins** and **axle-pin combos** (use both for extra grip).
+10. Position the second tower identically on the right base rail pair.
+11. Connect the two tower tops with a **7-stud Technic beam** running horizontally between them at hole 12 (one below the peak). This ties the towers together and prevents lateral sway.
 
-**Result:** Two stable A-frame towers rising ~9 studs above the base, aligned at the center.
-
----
-
-### Step 3: Build and Mount the Throwing Arm
-
-The arm is the core of the trebuchet. The off-center pivot gives mechanical advantage.
-
-1. Take the **15-stud Technic beam** — this is your throwing arm.
-2. Identify the pivot point: count **4 holes from one end**. This is where the axle goes through. The short side (4 studs) is the counterweight side. The long side (11 studs) is the throwing side.
-3. Slide the **6-stud Technic axle** through:
-   - The top hole of the left A-frame tower
-   - Then through hole 4 of the throwing arm
-   - Then through the top hole of the right A-frame tower
-4. Place a **half-bush** on each side of the arm on the axle to keep it centered between the towers.
-5. Place a **full bush** on the outside of each tower to prevent the axle from sliding out.
-6. Spin the arm on the axle — it should rotate freely with minimal friction. If it's stiff, swap any friction pins at the pivot for **frictionless pins** or ensure the bushes aren't too tight.
-
-**Result:** The arm swings freely on the axle. The short end hangs down (counterweight side), the long end points up (throwing side).
+**Result:** Two tall, buttressed A-frame towers rising ~18 studs above the base, connected at the top, with rear bracing.
 
 ---
 
-### Step 4: Build the Hinged Counterweight
+### Step 3: Build the Composite Throwing Arm
 
-A hinged (swinging) counterweight is significantly more efficient than a fixed one. It drops straight down while the arm rotates, converting more potential energy into projectile speed.
+A single beam would flex under the heavy counterweight. This arm uses two beams laminated together for rigidity.
 
-1. Take a **4x4 plate** as the counterweight platform.
-2. Attach a **3-stud Technic beam** to one edge of the plate using a **Technic axle-pin combo**, so the beam can act as a hinge connector.
-3. Connect this hinge beam to the **last hole** of the short end of the throwing arm using a **Technic pin without friction**. The 4x4 plate should now swing freely below the short arm end.
-4. Stack **2x4 bricks** onto the 4x4 plate — pile on **12 to 16 bricks**. The heavier the better. You want the counterweight to be **at least 20–30 times heavier** than your projectile.
-5. If the bricks feel unstable, sandwich them between two **2x4 plates** on top to lock them together.
-6. Test the hinge: hold the arm level and let go of the counterweight end. The weight should swing down freely without hitting the base or towers. If it hits, shorten the hinge beam or raise the tower height.
+#### Laminate the arm:
 
-**Result:** A heavy, freely-swinging counterweight attached to the short arm.
+1. Take two **15-stud Technic beams** and lay them side by side, holes aligned.
+2. Join them together using **Technic friction pins** through every other hole (holes 1, 3, 5, 7, 9, 11, 13, 15). This creates a rigid double-wide beam.
+3. On the counterweight end (holes 1–4), reinforce further by attaching two **7-stud Technic beams** on top and bottom of the laminated pair, sandwiching them. Pin through holes 1–4. This creates a quad-thick section where the stress is highest.
+
+#### Set the pivot point:
+
+4. The pivot goes through **hole 3** of the arm (counting from the counterweight end). This gives:
+   - Short side (counterweight): 3 studs
+   - Long side (throwing): 12 studs
+   - Ratio: **1:4** — extremely high mechanical advantage
+
+#### Mount the arm:
+
+5. Slide the **10-stud Technic axle** through:
+   - The top hole of the left tower
+   - Through hole 3 of the composite arm (both beams)
+   - Through the top hole of the right tower
+6. Place **half-bushes** on the axle on both sides of the arm to center it.
+7. Place **full bushes** on the outside of each tower.
+8. The arm should swing freely. Use **frictionless pins** if there's any binding. At this scale, even small friction losses matter.
+
+**Result:** A 15-stud double-wide arm with a 1:4 pivot ratio, swinging freely between the towers.
 
 ---
 
-### Step 5: Build the Projectile Holder
+### Step 4: Build the Massive Hinged Counterweight
 
-You have two options. The sling is harder to tune but nearly doubles range.
+The counterweight is the engine of the trebuchet. At this scale, you want it as heavy as possible.
 
-#### Option A: Simple Cradle (Easy)
+#### Build the counterweight cradle:
 
-1. Attach a **2x2 plate** or small Technic L-bracket to the **last hole** of the long arm end.
-2. Create a small cup shape using **1x2 plates with rails** on two sides to keep the projectile from rolling off prematurely.
-3. Place your **2x2 round brick** (ammo) in the cradle.
+1. Take the **6x6 plate** as the base of the counterweight cradle.
+2. Attach a **4x6 plate** on top, offset to one edge, creating a lip on one side to help contain the bricks.
+3. On the lip side, build up walls using **2x4 bricks** stacked 2 high on three sides, forming a box. Leave the top open for loading.
 
-#### Option B: Sling (Advanced, More Powerful)
+#### Build the hinge:
 
-1. Cut a piece of **string or thin cord to ~12 cm**.
-2. Tie one end firmly to the **last hole** of the long arm using a loop knot around a Technic pin inserted in that hole.
-3. Tie the other end to one corner of a **small fabric or paper pouch** (about 3x3 cm). The second corner of the pouch attaches to a **loose loop** of string that hooks over a **smooth Technic pin** at the arm tip.
-4. The loose loop is the release mechanism — as the arm swings forward and the angle changes, the loop slides off the pin, releasing the projectile at the optimal angle.
-5. **Tuning the sling:** The release angle depends on how loosely the loop sits on the pin. Experiment with the loop size:
-   - Too tight → projectile releases late, fires backward or straight up
-   - Too loose → releases too early, fires into the ground
-   - Just right → releases at ~45°, maximum distance
+4. Attach two **3-stud Technic beams** to the top edge of the cradle (the open side) using **axle-pin combos**, one on each side. These beams point upward.
+5. Connect the tops of these two hinge beams to the **last hole (hole 1)** of the short end of the throwing arm using a **Technic axle, 4-stud long** running through both hinge beams and the arm. Use **frictionless pins** — the hinge must swing freely.
 
-**Result:** A projectile holder at the end of the long arm, ready to launch.
+#### Load the counterweight:
+
+6. Stack **40 to 50 2x4 bricks** into the cradle. Pack them tightly.
+7. Cap the top with two **2x4 plates** to lock everything together.
+8. Target weight: **at least 30–50 times heavier** than your projectile. At this scale, more is always better.
+
+#### Clearance check:
+
+9. Hold the arm level and release the counterweight end. The cradle should swing straight down without hitting:
+   - The base frame
+   - The tower legs
+   - The buttresses
+10. If it clips anything, shorten the hinge beams by one stud or raise the tower connection point.
+
+**Result:** A heavy, freely-swinging counterweight box holding 40–50 bricks, attached to the short arm via a smooth hinge.
+
+---
+
+### Step 5: Build the Sling (Strongly Recommended)
+
+At this scale, a sling is not optional if you want maximum power. It effectively adds ~8 cm to the arm length and creates a whip effect that can double your range.
+
+1. Cut a piece of **strong cord to ~20 cm**.
+2. Tie one end firmly to the **last hole (hole 15)** of the long arm, looping around a Technic pin inserted in that hole. Double-knot it.
+3. At the **~10 cm mark** on the cord, attach the **fabric/leather pouch** (5x5 cm). Tie two corners of the pouch to the cord at this point.
+4. The remaining ~10 cm of cord continues from the other two corners of the pouch to a **loose loop** at the end.
+5. This loose loop hooks over a **smooth Technic pin** (frictionless, gray) inserted in hole 15 of the arm, pointing upward.
+6. The release mechanism: as the arm swings over the top and the angle changes, the loop slides off the pin, releasing the projectile at the optimal angle.
+
+#### Tuning the sling:
+
+| Loop tightness | Release angle | Result |
+|---|---|---|
+| Very tight | Late (past vertical) | Fires backward or straight up |
+| Slightly tight | ~60° | Fires high, short distance |
+| Medium | ~45° | Maximum distance (sweet spot) |
+| Loose | ~30° | Fires low and fast |
+| Very loose | Early | Fires into the ground |
+
+7. Start with a medium loop and adjust. Even 1–2 mm of loop size change affects the release angle significantly.
+
+**Result:** A sling that adds whip-effect power and nearly doubles the effective arm length.
 
 ---
 
 ### Step 6: Build the Trigger Mechanism
 
-#### Option A: Finger Release (Simple)
+At this scale, a finger release won't cut it — the counterweight is too heavy to hold by hand. You need a mechanical trigger.
 
-1. Just hold the long arm down with your finger.
-2. Load the projectile.
-3. Release.
+#### Ratchet-and-release trigger:
 
-#### Option B: Pin Latch Trigger (Recommended)
+1. At the **front of the base (stud 2)**, build a trigger post: stack a **3-stud Technic beam** vertically, pinned to the base.
+2. Attach a **5-stud Technic beam** to the top of this post using a **frictionless pin** so it can pivot horizontally. This is the trigger arm.
+3. At the end of the trigger arm, insert a **2-stud axle** pointing upward — this is the catch pin.
+4. On the long end of the throwing arm, near **hole 13**, insert a **Technic pin** pointing downward — this is the arm catch.
+5. To cock the trebuchet: pull the long arm down until the arm catch (hole 13 pin) hooks under the trigger arm's catch pin.
+6. The counterweight is now raised and held in place by the trigger.
+7. To fire: push the trigger arm sideways. The catch pin slides out from under the arm catch, releasing the arm.
 
-1. Attach a **3-stud Technic beam** to the base near the front using a **Technic pin** as a pivot, so it can rotate horizontally.
-2. When the long arm is pulled down (loaded position), hook the latch beam over a **Technic pin** protruding from the side of the arm near the tip.
-3. To fire: flick the latch beam sideways. It releases the arm pin, and the counterweight drops, launching the projectile.
-4. Optional: attach a **small rubber band** from the latch to the base so it snaps back to the open position after release, giving a cleaner launch.
+#### Trigger assist:
 
-**Result:** A reliable, repeatable trigger mechanism.
+8. Attach a **medium rubber band** from the trigger arm back to the trigger post. This snaps the trigger arm out of the way quickly on release, preventing it from snagging.
+9. Add a second **rubber band** on the opposite side for a clean, symmetric release.
+
+**Result:** A mechanical trigger that holds the full weight of the counterweight and releases cleanly.
 
 ---
 
-### Step 7: Final Assembly Check
+### Step 7: Final Assembly and Pre-Flight Check
 
-1. Ensure the base sits flat and doesn't rock.
-2. Verify the arm swings freely through its full arc without hitting anything.
-3. Confirm the counterweight swings without contacting the base or towers.
-4. Check that the projectile holder or sling clears the towers during launch.
-5. If using a sling, do a few test launches and adjust the release loop.
+1. Ensure the base sits perfectly flat on a hard surface. Any wobble wastes energy.
+2. Cock the trebuchet: pull the long arm down, hook the trigger.
+3. Verify the counterweight cradle hangs freely and doesn't contact anything.
+4. Load a **2x2 round brick** into the sling pouch.
+5. Check that the sling cord isn't tangled and the release loop is properly seated on the arm-tip pin.
+6. Clear the firing range — at this scale, expect launches of **3–6 meters** with a tuned sling.
+7. Fire by pushing the trigger arm sideways.
 
 ---
 
@@ -209,22 +294,40 @@ You have two options. The sling is harder to tune but nearly doubles range.
 
 | Adjustment | Effect |
 |---|---|
-| Add more counterweight | More energy, longer throws |
-| Lengthen the long arm | Higher tip speed (but needs more counterweight to compensate) |
-| Use a sling | Effectively lengthens the arm, adds whip effect — can nearly 2x range |
-| Use frictionless pins at pivot | Less energy lost to friction |
-| Use a lighter projectile | Faster launch, longer arc |
-| Anchor the base (tape to table) | Prevents energy loss from base movement |
-| Adjust sling release angle | Dial in the optimal ~45° release for max distance |
+| Add more counterweight bricks | More stored energy, longer throws |
+| Use coins or metal washers in the cradle | Much denser than LEGO bricks — dramatically increases weight in same space |
+| Lengthen the sling cord | More whip effect, but harder to tune release angle |
+| Shorten the sling cord | Easier to tune, slightly less range |
+| Use frictionless pins everywhere on the pivot | Less energy lost to friction |
+| Lighter projectile | Faster launch, longer arc |
+| Anchor the base to the table with clamps | Prevents any energy loss from base movement — biggest single improvement |
+| Add more rear buttresses to towers | Allows even heavier counterweight without tower flex |
+| Wax the pivot axle | Reduces friction further |
+| Increase arm ratio (move pivot to hole 2) | More speed at tip, but needs proportionally more counterweight |
+
+---
+
+## Expected Performance
+
+| Projectile | Estimated Range |
+|---|---|
+| 1x1 round plate (~1g) | 5–7 meters |
+| 2x2 round brick (~3g) | 3–5 meters |
+| 1x2 brick (~4g) | 2–4 meters |
+| Small bouncy ball (~5g) | 3–5 meters |
+
+Ranges assume a tuned sling, 40+ brick counterweight, and a stable base.
 
 ---
 
 ## Safety Notes
 
-- Always aim away from people, pets, and breakable objects.
-- Start with lightweight projectiles (1x1 round plates) before moving to heavier ammo.
-- The counterweight can pinch fingers — keep hands clear during launch.
-- Test outdoors or in a large open room.
+- This trebuchet launches projectiles with real force. Always aim away from people, pets, and breakable objects.
+- The counterweight is heavy — keep fingers clear when it drops. It can pinch or crush.
+- Start with the lightest projectiles first to test the release angle before moving to heavier ammo.
+- Test outdoors or in a gymnasium. Indoor rooms may not be long enough.
+- Wear eye protection if testing at close range.
+- Never look down the firing path while someone else operates the trigger.
 
 ---
 
@@ -232,14 +335,17 @@ You have two options. The sling is harder to tune but nearly doubles range.
 
 | Problem | Fix |
 |---|---|
-| Trebuchet tips forward on launch | Widen the base feet, add weight to the back of the base |
-| Arm doesn't swing freely | Replace friction pins at pivot with frictionless pins, loosen bushes |
-| Counterweight hits the base | Shorten the hinge connection or raise the towers |
+| Trebuchet tips forward on launch | Add more weight to the rear of the base, widen the feet, or clamp the base down |
+| Arm doesn't swing freely | Replace all pivot pins with frictionless pins, check bush tightness, wax the axle |
+| Counterweight hits the base | Shorten the hinge beams, raise the tower height, or deepen the base clearance |
+| Counterweight hits the towers | Widen the tower spacing or narrow the cradle |
 | Projectile goes straight up | Sling releasing too late — loosen the release loop |
-| Projectile hits the ground | Sling releasing too early — tighten the release loop |
-| Arm feels weak | Add more counterweight bricks |
-| Towers wobble | Add more cross-bracing, ensure all pins are fully seated |
+| Projectile hits the ground in front | Sling releasing too early — tighten the release loop |
+| Arm flexes visibly | Add more reinforcement beams to the composite arm, especially near the pivot |
+| Towers lean forward after repeated launches | Add more buttresses, check that all tower base pins are fully seated |
+| Trigger can't hold the weight | Increase friction on the trigger pivot, add a second catch pin, or use a stronger latch design |
+| Sling tangles on launch | Ensure the sling cord is straight before each launch, check that the pouch isn't twisted |
 
 ---
 
-Happy launching! 🧱
+Happy sieging! 🧱🏰
