@@ -9,6 +9,9 @@ These aren't display models — they actually fire projectiles across a room.
 ## The Arsenal
 
 ### [The Siege Breaker — Trebuchet](lego-trebuchet-build-guide.md)
+
+![Completed LEGO Trebuchet](theo_trebuchet.jpg)
+
 A large-scale counterweight trebuchet with a composite double-beam arm, 1:4 pivot ratio, massive hinged counterweight (40–50 bricks), and a tuned sling for maximum range. Lobs projectiles 5–7 meters.
 
 ### [The Siege Striker — Ballista](lego-ballista-build-guide.md)
